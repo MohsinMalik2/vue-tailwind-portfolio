@@ -54,9 +54,9 @@
 </template>
 
 <script>
-export default {
-name:"FeatureComponent"
-}
+    export default {
+        name:"FeatureComponent"
+    }
 </script>
 
 <style>
